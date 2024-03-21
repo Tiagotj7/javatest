@@ -2,7 +2,7 @@
 
 public class Meuscript{
 
-    {
+    public static void main(String[] args){
 
     //Declaração e inicialização de variáveis
 
