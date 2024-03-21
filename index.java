@@ -16,8 +16,8 @@ public class index {
 
         int t = x + y + z;
         int w = x * y * z;
-        double m = x + (double) y / z; //// Garante que a divisão seja feita como double para obter um resultadoreciso
-                                      
+        double m = x + (double) y / z; //// Garante que a divisão seja feita como double para obter um resultado
+                                       //// preciso.
 
         // Exibindo os resultados
 
